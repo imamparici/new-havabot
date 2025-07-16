@@ -31,5 +31,8 @@ client.on("message_create", (message) => {
 client.initialize();
 
 
+
 //disini tambhaan
 // tmabahan akhir
+//disini tambhaan
+//disini tambhaan2
