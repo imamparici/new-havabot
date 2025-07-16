@@ -30,5 +30,5 @@ client.on("message_create", (message) => {
 // Start your client
 client.initialize();
 
-
 //disini tambhaan
+//disini tambhaan2
